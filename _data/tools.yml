@@ -168,6 +168,15 @@
 
 # Editors
 
+- name: COFIQ
+  category: editors
+  language: agnostic
+  license: commercial / trial
+  github: https://github.com/adraab/COFIQ
+  description: Format agnostic modeler and repository; datamodels with services/API's. Generates many formats e.g. WSDL, OpenAPI 3.0 etc. And... guards interoperability during datamodel changes. Visit www.cofiq.com
+  v4: true
+
+
 - name: KaiZen-OpenAPI-Editor
   category: editors
   language: Java
